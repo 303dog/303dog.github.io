@@ -1,11 +1,11 @@
 # Site settings
 author: Paul Beckwith
-title: 
+title: Programming. As I Learn More...
 header-img: img/home-bg.png
 email: 303dog@gmail.com
 copyright_name: Paul Beckwith
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Just Jumping In!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  303dog

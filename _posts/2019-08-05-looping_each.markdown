@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "LOOPing.each"
-date:       2019-08-05 15:59:57 +0000
+date:       2019-08-05 11:59:58 -0400
 permalink:  looping_each
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "    .Yield (but why?)"
-date:       2020-04-21 02:46:46 +0000
+date:       2020-04-20 22:46:47 -0400
 permalink:  yield_but_why
 ---
 
@@ -35,6 +35,27 @@ one yield
 multiple yields
 multiple yields
 ```
+
+
+OR heres another example:
+
+```
+def my_method
+  puts "reached the top"
+  yield
+  puts "reached the bottom"
+end
+
+my_method do
+  puts "reached yield"
+end
+
+# output
+reached the top
+reached yield
+reached the bottom
+```
+
 
 **block_given?**
 When yield is called in a method then the method requires a block. Otherwise, a LocalJumpError is raised. Using block_given? allows us to have options.  If we want to use the yield block we can but we dont have too if it's not needed.

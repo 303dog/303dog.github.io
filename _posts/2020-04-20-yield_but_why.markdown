@@ -70,4 +70,25 @@ optional_block { puts 'optional block' } # => optional block
 ```
 
 
+Yield can also help with predetermined factors. You can Initialize objects with default values:
 
+```
+class Car
+  attr_accessor :color, :doors
+
+  def initialize
+    yield(self)
+  end
+end
+
+car = Car.new do |c|
+  c.color = "Red"
+  c.doors = 4
+end
+
+puts "My car's color is #{car.color} and it's got #{car.doors} doors."
+
+# output
+
+My car's color is Red and it's got 4 doors.
+```

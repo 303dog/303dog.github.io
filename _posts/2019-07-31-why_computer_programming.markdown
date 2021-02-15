@@ -12,3 +12,9 @@ I like the creative aspect of coding. The satisfaction of working on a project a
 
 After working in the hospitality industry for over 25 years, I was drawn to software development because of the almost endless possibilities and applications I feel like this is an industry still in its early onset but well established and has proven its neccessity to society.  My hope is to contribute and offer more to our lives thru technology.
 
+With the pandemic in 2020 and the major hit to the economy and industries such as restaurants and hotels, I find my change of careers to be perfect timing. Losing my job only 3 months after a decalred pandemic I am like most people and worry what the future holds. It is that fear that helps to support the fact that I have made a good choice in pursuing my new career. 
+
+Technology and programming careers are gowing and expanding like never before and the demand for talented coders is ever present.  Take the pandemic for example. Almost immediatley, I saw this demand on the public stage. As the world is trying to figure out what to do next, who will create the vaccine and then there is the "circus" of our politcal parties I noticed the many ideas of how to track the infection.  Several small applications started appearing funded by government and private companies to can track the spread. A "6 degrees of Kevin Bacon" of infectious diseases.  Nevermind the social concerns of privacy and invasion that the public has spoken to, the fact is it is a great use of technology to help the world and I probably would have taken it for granted had I not been taking classes from Flatiron. 
+
+I can honestly say I am very excited to be joing an industry with such a reach and ability to help people. 
+

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React and all the < Routing >"
-date:       2021-02-12 01:45:43 +0000
+date:       2021-02-11 20:45:44 -0500
 permalink:  react_and_all_the_routing
 ---
 
@@ -79,4 +79,4 @@ If you want to change the route you need to use <Link>.  Link helps the user nav
 ````<Link to="/'>home</Link>```
 
 
-I guess after writing and then rereading this blog it sounds like routing isnt all that complicated but then the question is ... why cant I get my application to route like i want!?
+Though different in the way it is executed compared to others, react routing can be an effective tool for accomplishing all your routing needs in regards to your SPA. 

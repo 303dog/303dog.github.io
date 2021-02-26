@@ -1,13 +1,13 @@
 ---
 layout: post
-title:      "Client-side VS Server-side Routing Enter your title here"
-date:       2021-02-26 03:40:51 +0000
+title:      "Client-side VS Server-side Routing"
+date:       2021-02-25 22:40:51 -0500
 permalink:  client-side_vs_server-side_routing_enter_your_title_here
 ---
 
 
-The content of your blog post goes here.
- want to take a moment to discuss client-side routing and server-side routing and give a clear picture of the differences. I will start with the client-side and move into server-side routing concept and then I will talk about the differences
+
+I want to take a moment to discuss client-side routing and server-side routing and give a clear picture of the differences. I will start with the client-side and move into server-side routing concept and then I will talk about the differences
 
 Any website or application that you can access from your computer or phone is going to be enabled on a server… somewhere.
 

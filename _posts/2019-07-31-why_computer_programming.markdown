@@ -6,15 +6,21 @@ permalink:  why_computer_programming
 ---
 
 
-I have chosen computer programming after weighing.... most of my options.  As a member of the Xennial generation, I remember the introduction of the internet. I remember getting the AOL and Netscape CDs in the mail offering 4 free hours of internet time via a 56k connection with subscription. I remember when the digits 911 where placed after a phone number on my pager, it meant I need to find a payphone ASAP! More importantly I remember DOS and loading up the desktop to play the space invaders type game at my neighbors house when his older brother wasn't home hogging the screen time. I was there like all the other people in my Xennial generation when all the modern conviences we take for granted today, seemed like alien technology and magic!
-
-I like the creative aspect of coding. The satisfaction of working on a project and successfully putting it together and watching it do what it was meant to do is very filling.  Over the last decade or so I have had and contiue to have a passion for working with my hands and creating unique and functional furniture thru woodworking and I am using that passion of designing, creating and completing projects to drive my new found interest in programming.  
-
-After working in the hospitality industry for over 25 years, I was drawn to software development because of the almost endless possibilities and applications I feel like this is an industry still in its early onset but well established and has proven its neccessity to society.  My hope is to contribute and offer more to our lives thru technology.
-
-With the pandemic in 2020 and the major hit to the economy and industries such as restaurants and hotels, I find my change of careers to be perfect timing. Losing my job only 3 months after a decalred pandemic I am like most people and worry what the future holds. It is that fear that helps to support the fact that I have made a good choice in pursuing my new career. 
-
-Technology and programming careers are gowing and expanding like never before and the demand for talented coders is ever present.  Take the pandemic for example. Almost immediatley, I saw this demand on the public stage. As the world is trying to figure out what to do next, who will create the vaccine and then there is the "circus" of our politcal parties I noticed the many ideas of how to track the infection.  Several small applications started appearing funded by government and private companies to can track the spread. A "6 degrees of Kevin Bacon" of infectious diseases.  Nevermind the social concerns of privacy and invasion that the public has spoken to, the fact is it is a great use of technology to help the world and I probably would have taken it for granted had I not been taking classes from Flatiron. 
-
 I can honestly say I am very excited to be joing an industry with such a reach and ability to help people. 
+
+After spending many years in the restaurant industry and feeling like there had to be something more out there for me, in March 2020, I found myself in a rare situtation of having the chance to do something about it, make the necessary moves and change careers!   
+
+I have always been interested in the fact that an idea has the strength to change the world and like most I wanted to be involved in those moments. I want to help nutrure and develop those ideas and/ or at the very least I want to be a part of making those ideas become a reality.  I am sure that like most people who ponder the "why's" in daily life, the dream is real.  The opportunity is there. But timing usually is off for some reason or another. 
+
+Deciding to enroll and complete the Software Engineer program at Flatiron was a pretty easy decision one for me as I knew it would help open doors to an industry I desperatly want to be a part of. I didn't know anything about coding, frameworks or even the different languages except that there is a ton of information to absorb and the indusrty is growing so fast that I would be commiting to a lifetime of education. 
+
+While at work I would watch as the tables filled with the business crowd every weekday starting at 11:30am.  As I would do my rounds I would see if I could get a look at the work badges they had clipped to thier jackets or shirts. I was always interested where they worked and what they did there. Some more than others and always with an eye on new and established tech companies in the area. I guess it could be argued that I was daydreaming at work but really I was just doing recon for my dream job.  
+
+If you look at the achievements over the years like cell phones and personal computers, it is hard to believe there was a time when payphones were everywhere. When you sat next to phone, waiting for an important call or even gaurded it because the line needed to be clear so you didn't miss it.  A trip to the library to use the computer or use the printer. These used to be chores. It used to be a lot of work to print a resume where as now you can probably do it from your phone! 
+
+People used to only dream of being on tv for all to see and know we have technologies that make that possible for anyone who has a smart phone and a social media account. It is no surprise that the world has shrunk and the reason for that is all the amazing technology that has been created.  
+
+Who wouldn't want to be a part of that!?  It is my hope that someday I find myself in a position where I get the opportunity to contribute to this movement. 
+
+
 

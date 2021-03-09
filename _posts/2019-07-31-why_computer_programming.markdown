@@ -20,7 +20,7 @@ If you look at the achievements over the years like cell phones and personal com
 
 People used to only dream of being on tv for all to see and know we have technologies that make that possible for anyone who has a smart phone and a social media account. It is no surprise that the world has shrunk and the reason for that is all the amazing technology that has been created.  
 
-Who wouldn't want to be a part of that!?  It is my hope that someday I find myself in a position where I get the opportunity to contribute to this movement. 
+Who wouldn't want to be a part of that!?  It is my hope that someday I find myself in a position where I get the opportunity to contribute to this movement. My goal is to find a need and give back in a positive way. 
 
 
 
